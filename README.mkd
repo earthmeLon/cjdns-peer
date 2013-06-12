@@ -1,0 +1,12 @@
+# cjdns-peer
+
+CLI Interface to manipulate cjdroute peering configuration.
+
+## Usage
+
+TODO
+
+## Contributing
+
+1.  Search through source for 'TODO's
+1.  Request enhancements/File bug reports on the [github issues page](https://github.com/earthmeLon/cjdns-peer/issues)
